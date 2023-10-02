@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cs808167
+- 👀 I’m interested in any programming language I guess.
+- 🌱 I’m currently learning Python maybe.
+- 💞️ I’m looking to collaborate on typing a Hello World script.
+- 📫 How to reach me is by phone number and messaging.
